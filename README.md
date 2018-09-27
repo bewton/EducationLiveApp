@@ -1,0 +1,2 @@
+# EducationLiveApp
+# for android platform
